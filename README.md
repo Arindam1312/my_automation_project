@@ -2,3 +2,4 @@
 This application will help to automate daily report 
 <br>
 Author - Arindam Mandal
+How to oparate
